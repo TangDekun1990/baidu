@@ -1,0 +1,22 @@
+[
+  {
+    "bigImage": "images/slide_01_2000x410.jpg",
+    "smallImage": "images/slide_01_640x340.jpg"
+  },
+  {
+    "bigImage": "images/slide_01_2000x410.jpg",
+    "smallImage": "images/slide_01_640x340.jpg"
+  },
+  {
+    "bigImage": "images/slide_02_2000x410.jpg",
+    "smallImage": "images/slide_02_640x340.jpg"
+  },
+  {
+    "bigImage": "images/slide_03_2000x410.jpg",
+    "smallImage": "images/slide_03_640x340.jpg"
+  },
+  {
+    "bigImage": "images/slide_04_2000x410.jpg",
+    "smallImage": "images/slide_04_640x340.jpg"
+  }
+]
